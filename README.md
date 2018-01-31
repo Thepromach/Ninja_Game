@@ -1,8 +1,7 @@
 Ninja_Game
 ==========
 
-Old platformer game made in 2013
-	Platformer where ninja trying to be without falling down
+Platformer where the ninja tries not to fall off the screen
 
 Keys
 	Up using levitation power
