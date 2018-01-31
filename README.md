@@ -1,7 +1,7 @@
 Ninja_Game
 ==========
 
-Ninja platformer
+Old platformer game made in 2013
 	Platformer where ninja trying to be without falling down
 
 Keys
